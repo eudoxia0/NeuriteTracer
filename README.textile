@@ -8,7 +8,7 @@ h1. Goal
 
 This image is from the paper "_3D Segmentation of Neurons from Electron Micrographs_ (PDF)":web.mit.edu/ncthomas/www/RSIpaper.pdf by Nathaniel Thomas (MIT), and shows approximately how the program should behave.
 
-!http://github.com/eudoxia0/NeuriteTracer/comparisons/real_work.png!
+!http://github.com/eudoxia0/NeuriteTracer/master/comparisons/real_work.png!
 
 Left is the source image, right is the tracing of its neurites. The source image is a cross section of a rat’s visual cortex taken with an electron microscope. The resolution is 26.4 nm in both the vertical and horizontal directions.
 
@@ -18,11 +18,11 @@ Left is the original micrograph, right is the tracing of its neurites (2D slices
 
 h2. Tracing of neurites in the visual cortex of a rat
 
-!http://github.com/eudoxia0/NeuriteTracer/comparisons/results1.png!
+!http://github.com/eudoxia0/NeuriteTracer/master/comparisons/results1.png!
 
 h2. Tracing of neurites in _Drosophila_ neural tissue
 
-!http://github.com/eudoxia0/NeuriteTracer/comparisons/results2.png!
+!http://github.com/eudoxia0/NeuriteTracer/master/comparisons/results2.png!
 
 h1. Datasets
 
