@@ -39,7 +39,7 @@ h1. Papers on the subject
 
 h1. Thanks
 
-* To the creators of the incredible "OpenCV": open-source computer vision library.
+* To the creators of the incredible "OpenCV":http://opencv.org/ open-source computer vision library.
 
 h1. License
 
