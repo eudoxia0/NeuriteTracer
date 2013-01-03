@@ -4,6 +4,8 @@ A neurite tracer is a program that extracts the 3D structures of neurons from st
 
 The program works by taking a series of micrographs, and for each picture it traces the contours of neurites (The cellular membranes). Then, the contours are concatenated together into a single 3D models. The resulting models are emitted as a .pov file (Voxels), each model with a different color to ensure they can be told apart.
 
+This is free software distributed under the terms of the MIT License.
+
 h1. Goal
 
 This image is from the paper "_3D Segmentation of Neurons from Electron Micrographs_ (PDF)":web.mit.edu/ncthomas/www/RSIpaper.pdf by Nathaniel Thomas (MIT), and shows approximately how the program should behave.
@@ -38,4 +40,14 @@ h1. Papers on the subject
 h1. Thanks
 
 * To the creators of the incredible "OpenCV": open-source computer vision library.
+
+h1. License
+
+Copyright (C) 2012-2013 Fernando Borretti
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
